@@ -1,0 +1,15 @@
+/home/thiago/Documentos/Documentos/MEI/Freela/Walter/Blazordefinitivo/BlazorApp/publish/BlazorApp
+/home/thiago/Documentos/Documentos/MEI/Freela/Walter/Blazordefinitivo/BlazorApp/publish/appsettings.Development.json
+/home/thiago/Documentos/Documentos/MEI/Freela/Walter/Blazordefinitivo/BlazorApp/publish/appsettings.json
+/home/thiago/Documentos/Documentos/MEI/Freela/Walter/Blazordefinitivo/BlazorApp/publish/BlazorApp.dll
+/home/thiago/Documentos/Documentos/MEI/Freela/Walter/Blazordefinitivo/BlazorApp/publish/BlazorApp.deps.json
+/home/thiago/Documentos/Documentos/MEI/Freela/Walter/Blazordefinitivo/BlazorApp/publish/BlazorApp.runtimeconfig.json
+/home/thiago/Documentos/Documentos/MEI/Freela/Walter/Blazordefinitivo/BlazorApp/publish/BlazorApp.pdb
+/home/thiago/Documentos/Documentos/MEI/Freela/Walter/Blazordefinitivo/BlazorApp/publish/Amazon.Lambda.APIGatewayEvents.dll
+/home/thiago/Documentos/Documentos/MEI/Freela/Walter/Blazordefinitivo/BlazorApp/publish/Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+/home/thiago/Documentos/Documentos/MEI/Freela/Walter/Blazordefinitivo/BlazorApp/publish/Amazon.Lambda.AspNetCoreServer.dll
+/home/thiago/Documentos/Documentos/MEI/Freela/Walter/Blazordefinitivo/BlazorApp/publish/Amazon.Lambda.AspNetCoreServer.Hosting.dll
+/home/thiago/Documentos/Documentos/MEI/Freela/Walter/Blazordefinitivo/BlazorApp/publish/Amazon.Lambda.Core.dll
+/home/thiago/Documentos/Documentos/MEI/Freela/Walter/Blazordefinitivo/BlazorApp/publish/Amazon.Lambda.Logging.AspNetCore.dll
+/home/thiago/Documentos/Documentos/MEI/Freela/Walter/Blazordefinitivo/BlazorApp/publish/Amazon.Lambda.RuntimeSupport.dll
+/home/thiago/Documentos/Documentos/MEI/Freela/Walter/Blazordefinitivo/BlazorApp/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
